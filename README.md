@@ -1,5 +1,5 @@
 # Modern-Webpage-HTMl-CSS
-Simply Modern-WebSite using HTML and CSS, no java.
+Simply Modern-WebSite using HTML and CSS.
 
 ### Under Construcction!
 
