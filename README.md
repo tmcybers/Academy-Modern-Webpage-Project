@@ -1,4 +1,4 @@
-# Modern-Webpage-HTMl-CSS
+# Modern-Webpage-HTML-CSS
 Simply Modern-WebSite using HTML and CSS.
 
 ### Under Construcction!
