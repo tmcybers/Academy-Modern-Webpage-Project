@@ -10,17 +10,20 @@ body {
 }
 
 h1 {
-    font-size: 3.5mm;
+    font-size: 9.5mm;
 }
 
 h2 {
-    font-size: 2.7mm;
+    font-size: 9.7mm;
 }
 
 h3 {
     font-size: 2em;
 }
 
+h4 {
+    font-size: 8.60mm;
+}
 p {
     font-size: 1.25em;
 }
@@ -33,12 +36,15 @@ button {
     font-size: 1.25em;
     font-weight: bold;
     padding: 10px 30px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 1px solid rgba(0, 0, 0, 0, 5);
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0, 5);
     color: white;
-    background-color: blueviolet;
-
+    background-color: rgb(12, 248, 3);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 
 button:hover {
@@ -50,32 +56,21 @@ button:hover {
     margin: auto;
 }
 
+header {
+    background-color: rgb(245, 245, 245);
+}
 
+header .logo {
+    margin: 0;
+    padding: 25px 30px;
+    font-weight: bold;
+    color: rgb(72, 255, 0);
+    font-size: 1.5em;
 
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
