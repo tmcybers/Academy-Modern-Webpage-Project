@@ -1,7 +1,16 @@
 # Modern-Webpage-HTML-CSS
-Simply Modern-WebSite using HTML and CSS.
 
-### Under Construcction!
+### Project Html-Css and Git 100%
 
-![Captura de pantalla de 2022-07-01 22-47-33](https://user-images.githubusercontent.com/97669969/176966134-765bf1bf-4053-48b2-ac71-ad96c82c2e63.png)
+* Modern
+* Mobile Optimized Webpage
+* Reason Git Master Fully Practice
+* Oriented Academy, Blog, Courses, etc
+
+##### Im Open for Issues, I have closed this project for now but I will come back to update it in the future and make modern changes.
+
+##### Feel free to fork-it, and make it according your taste.
+
+
+## open source OSS Project.
 
