@@ -20,7 +20,9 @@
 
 ![Captura de pantalla de 2022-07-16 23-37-20](https://user-images.githubusercontent.com/97669969/179373048-260377b7-c040-4cfc-a82d-3f0b45382316.png)
 
-![Captura de pantalla de 2022-07-16 23-37-43](https://user-images.githubusercontent.com/97669969/179373052-2ee28544-fedf-4b23-ac31-878b1c37550d.png)
+
+![gjhg](https://user-images.githubusercontent.com/97669969/179373845-20fefc44-3b2b-4478-9198-80b2514c770d.png)
+
 
 ![Captura de pantalla de 2022-07-16 23-37-56](https://user-images.githubusercontent.com/97669969/179373055-6c67ff99-9c2c-4eb4-98cb-b304e99cae1d.png)
 
