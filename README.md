@@ -35,5 +35,5 @@
 
 
 
-## open source OSS Project.
+## Open-source software (OSS)
 
